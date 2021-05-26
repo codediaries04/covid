@@ -1,0 +1,34 @@
+#title{
+  background-color: #E9EAF7;
+}
+h1{
+  font-size: 100px;
+  padding-left: 100px;
+  padding-top: 100px;
+}
+h2{
+  padding-left: 105px;
+}
+.btn{
+  margin-right: 30px;
+}
+.content{
+  margin-left: 960px;
+}
+.doctor-images1{
+  width: 200px;
+  height: 300px;
+}
+.doctor-images2{
+  width: 200px;
+  height: 300px;
+}
+.doctor-images3{
+  width: 200px;
+  height: 300px;
+  padding-left: 100px;
+}
+.images{
+  margin-left: 750px;
+  margin-top: 30px;
+}
